@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 560c8d6c19f50514f834524543c7518f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: spider_skn_L
+    100004: SpiderRLeg43
+    100006: SpiderRLeg42
+    100008: SpiderRLeg41
+    100010: SpiderLLeg43
+    100012: SpiderLLeg42
+    100014: SpiderLLeg41
+    100016: SpiderRLeg33
+    100018: SpiderRLeg32
+    100020: SpiderRLeg31
+    100022: SpiderLLeg33
+    100024: SpiderLLeg32
+    100026: SpiderLLeg31
+    100028: SpiderRLeg23
+    100030: SpiderRLeg22
+    100032: SpiderRLeg21
+    100034: SpiderLLeg23
+    100036: SpiderLLeg22
+    100038: SpiderLLeg21
+    100040: SpiderRLeg13
+    100042: SpiderRLeg12
+    100044: SpiderRLeg11
+    100046: SpiderLLeg13
+    100048: SpiderLLeg12
+    100050: SpiderLLeg11
+    100052: Spider 2
+    100054: Spider 1
+    100056: Spider_back
+    100058: SpiderHub
+    100060: Spider
+    100062: SpiderRLeg4Platform
+    100064: SpiderLLeg4Platform
+    100066: SpiderRLeg3Platform
+    100068: SpiderLLeg3Platform
+    100070: SpiderRLeg2Platform
+    100072: SpiderLLeg2Platform
+    100074: SpiderRLeg1Platform
+    100076: SpiderLLeg1Platform
+    400000: //RootNode
+    400002: spider_skn_L
+    400004: SpiderRLeg43
+    400006: SpiderRLeg42
+    400008: SpiderRLeg41
+    400010: SpiderLLeg43
+    400012: SpiderLLeg42
+    400014: SpiderLLeg41
+    400016: SpiderRLeg33
+    400018: SpiderRLeg32
+    400020: SpiderRLeg31
+    400022: SpiderLLeg33
+    400024: SpiderLLeg32
+    400026: SpiderLLeg31
+    400028: SpiderRLeg23
+    400030: SpiderRLeg22
+    400032: SpiderRLeg21
+    400034: SpiderLLeg23
+    400036: SpiderLLeg22
+    400038: SpiderLLeg21
+    400040: SpiderRLeg13
+    400042: SpiderRLeg12
+    400044: SpiderRLeg11
+    400046: SpiderLLeg13
+    400048: SpiderLLeg12
+    400050: SpiderLLeg11
+    400052: Spider 2
+    400054: Spider 1
+    400056: Spider_back
+    400058: SpiderHub
+    400060: Spider
+    400062: SpiderRLeg4Platform
+    400064: SpiderLLeg4Platform
+    400066: SpiderRLeg3Platform
+    400068: SpiderLLeg3Platform
+    400070: SpiderRLeg2Platform
+    400072: SpiderLLeg2Platform
+    400074: SpiderRLeg1Platform
+    400076: SpiderLLeg1Platform
+    4300000: spider_skn_L
+    11100000: //RootNode
+    13700000: SpiderHub
+    13700002: spider_skn_L
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
